@@ -1,1 +1,1 @@
-# MoneyVotingToken
+# MoneyVotingTokenPage
